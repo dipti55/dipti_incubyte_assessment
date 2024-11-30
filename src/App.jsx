@@ -1,10 +1,12 @@
+import StringCalculator from "./components/StringCalculator"
 
 
 function App() {
 
   return (
     <>
-      <h1>Incubyte Assessment</h1>
+      <h1>String Calculator Assessment</h1>
+      <StringCalculator/>
     </>
   )
 }
