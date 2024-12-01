@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>String Calculator Assessment</h1>
+      <h1 className="heading">Incubyte Assessment</h1>
       <StringCalculator/>
     </>
   )

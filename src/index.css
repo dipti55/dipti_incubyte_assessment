@@ -1,0 +1,24 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.stringCalculator{
+  padding: 2rem 5rem;
+}
+.heading{
+  text-align: center;
+  padding: 1rem 0rem;
+  background: aliceblue;
+}
+.header{
+  padding-left: 2rem;
+    background: antiquewhite;
+}
+.stringCalculator label{
+  font-weight: 700;
+}
+.stringCalculator p{
+  font-weight: 700;
+  margin-top: 1rem;
+}
+.stringCalculator textarea{
+  width: 50%;
+}
